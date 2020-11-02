@@ -1,0 +1,3 @@
+include ':irises'
+include ':app'
+rootProject.name = "Digital Botanica Theme"
